@@ -9,6 +9,7 @@
     "lint": "echo 'Add lint script here'"
   },
   "dependencies": {
+    "@cubejs-client/core": "^0.35.23",
     "hono": "^4.2.7"
   },
   "devDependencies": {
